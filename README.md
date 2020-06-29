@@ -4,8 +4,11 @@ A Hogwarts HUD for Garry's Mod
 Features
 -------
 **RP Name** - Display your RP Name.
+
 **Year System** - Display your level number from Leveling System.
+
 **Money** - Display your money.
+
 **Job** - Display your job.
 
 How to use it?
