@@ -19,4 +19,5 @@ How to use it?
 
 Preview
 -------
+![HUD](https://i.imgur.com/bxQTtoF.jpg)
 ![HUD](https://i.imgur.com/ryhzx0L.jpg)
