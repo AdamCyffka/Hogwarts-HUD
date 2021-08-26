@@ -7,6 +7,8 @@ Features
 
 **Year System** - Display your level number from Leveling System.
 
+**Health** - Display your health.
+
 **Money** - Display your money.
 
 **Job** - Display your job.
